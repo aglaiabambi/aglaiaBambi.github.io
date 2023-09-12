@@ -128,7 +128,7 @@
   </url>
   
   <url>
-    <loc>https://aglaiabambi.github.io/gallery/qqzone3/index.html</loc>
+    <loc>https://aglaiabambi.github.io/gallery/qqzone2/index.html</loc>
     
     <lastmod>2023-09-10</lastmod>
     
@@ -137,7 +137,7 @@
   </url>
   
   <url>
-    <loc>https://aglaiabambi.github.io/gallery/qqzone2/index.html</loc>
+    <loc>https://aglaiabambi.github.io/gallery/qqzone3/index.html</loc>
     
     <lastmod>2023-09-10</lastmod>
     
@@ -234,6 +234,13 @@
   </url>
   
   <url>
+    <loc>https://aglaiabambi.github.io/tags/Bambi-Sleep/</loc>
+    <lastmod>2023-09-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://aglaiabambi.github.io/tags/%E7%BA%A6%E8%B0%83/</loc>
     <lastmod>2023-09-12</lastmod>
     <changefreq>weekly</changefreq>
@@ -254,24 +261,17 @@
     <priority>0.2</priority>
   </url>
   
-  <url>
-    <loc>https://aglaiabambi.github.io/tags/Bambi-Sleep/</loc>
-    <lastmod>2023-09-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
 
   
   <url>
-    <loc>https://aglaiabambi.github.io/categories/%E8%8A%B1%E9%98%BF%E5%A7%A8%E7%9A%84%E6%81%B6%E9%AD%94%E4%BA%8B/</loc>
+    <loc>https://aglaiabambi.github.io/categories/%E8%8A%B1%E9%98%BF%E5%A7%A8%E4%B8%8E%E6%96%91%E8%8A%98%E5%A8%83%E5%A8%83/</loc>
     <lastmod>2023-09-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://aglaiabambi.github.io/categories/%E8%8A%B1%E9%98%BF%E5%A7%A8%E4%B8%8E%E6%96%91%E8%8A%98%E5%A8%83%E5%A8%83/</loc>
+    <loc>https://aglaiabambi.github.io/categories/%E8%8A%B1%E9%98%BF%E5%A7%A8%E7%9A%84%E6%81%B6%E9%AD%94%E4%BA%8B/</loc>
     <lastmod>2023-09-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
