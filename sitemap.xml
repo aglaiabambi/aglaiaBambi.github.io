@@ -2,15 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://aglaiabambi.github.io/2023/08/31/BAM0001/</loc>
-    
-    <lastmod>2023-10-13</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://aglaiabambi.github.io/2023/09/01/BAM0003/</loc>
     
     <lastmod>2023-10-13</lastmod>
@@ -29,25 +20,7 @@
   </url>
   
   <url>
-    <loc>https://aglaiabambi.github.io/2023/09/02/BAM0004/</loc>
-    
-    <lastmod>2023-10-13</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://aglaiabambi.github.io/2023/09/02/BAM0005/</loc>
-    
-    <lastmod>2023-10-13</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://aglaiabambi.github.io/2023/09/02/BAM0006/</loc>
+    <loc>https://aglaiabambi.github.io/2023/08/31/BAM0001/</loc>
     
     <lastmod>2023-10-13</lastmod>
     
@@ -65,7 +38,7 @@
   </url>
   
   <url>
-    <loc>https://aglaiabambi.github.io/2023/09/02/BAM0008/</loc>
+    <loc>https://aglaiabambi.github.io/2023/09/02/BAM0006/</loc>
     
     <lastmod>2023-10-13</lastmod>
     
@@ -74,7 +47,25 @@
   </url>
   
   <url>
-    <loc>https://aglaiabambi.github.io/2023/09/02/BAM0009/</loc>
+    <loc>https://aglaiabambi.github.io/2023/09/02/BAM0005/</loc>
+    
+    <lastmod>2023-10-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://aglaiabambi.github.io/2023/09/02/BAM0004/</loc>
+    
+    <lastmod>2023-10-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://aglaiabambi.github.io/2023/09/02/BAM0008/</loc>
     
     <lastmod>2023-10-13</lastmod>
     
@@ -92,16 +83,7 @@
   </url>
   
   <url>
-    <loc>https://aglaiabambi.github.io/2023/09/03/BAM0011/</loc>
-    
-    <lastmod>2023-10-13</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://aglaiabambi.github.io/2023/09/04/BAM0013/</loc>
+    <loc>https://aglaiabambi.github.io/2023/09/02/BAM0009/</loc>
     
     <lastmod>2023-10-13</lastmod>
     
@@ -119,43 +101,25 @@
   </url>
   
   <url>
+    <loc>https://aglaiabambi.github.io/2023/09/04/BAM0013/</loc>
+    
+    <lastmod>2023-10-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://aglaiabambi.github.io/2023/09/03/BAM0011/</loc>
+    
+    <lastmod>2023-10-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://aglaiabambi.github.io/2019/05/04/EMO0000/</loc>
-    
-    <lastmod>2023-10-13</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://aglaiabambi.github.io/2019/05/03/EMO0001/</loc>
-    
-    <lastmod>2023-10-13</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://aglaiabambi.github.io/2019/05/03/EMO0002/</loc>
-    
-    <lastmod>2023-10-13</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://aglaiabambi.github.io/2019/05/03/EMO0003/</loc>
-    
-    <lastmod>2023-10-13</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://aglaiabambi.github.io/2019/05/03/EMO0004/</loc>
     
     <lastmod>2023-10-13</lastmod>
     
@@ -182,7 +146,7 @@
   </url>
   
   <url>
-    <loc>https://aglaiabambi.github.io/2019/05/03/EMO0007/</loc>
+    <loc>https://aglaiabambi.github.io/2019/05/03/EMO0003/</loc>
     
     <lastmod>2023-10-13</lastmod>
     
@@ -191,7 +155,34 @@
   </url>
   
   <url>
-    <loc>https://aglaiabambi.github.io/2019/05/03/EMO0008/</loc>
+    <loc>https://aglaiabambi.github.io/2019/05/03/EMO0004/</loc>
+    
+    <lastmod>2023-10-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://aglaiabambi.github.io/2019/05/03/EMO0002/</loc>
+    
+    <lastmod>2023-10-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://aglaiabambi.github.io/2019/05/03/EMO0001/</loc>
+    
+    <lastmod>2023-10-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://aglaiabambi.github.io/2019/05/04/EMO0011/</loc>
     
     <lastmod>2023-10-13</lastmod>
     
@@ -218,7 +209,16 @@
   </url>
   
   <url>
-    <loc>https://aglaiabambi.github.io/2019/05/04/EMO0011/</loc>
+    <loc>https://aglaiabambi.github.io/2019/05/03/EMO0008/</loc>
+    
+    <lastmod>2023-10-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://aglaiabambi.github.io/2019/05/03/EMO0007/</loc>
     
     <lastmod>2023-10-13</lastmod>
     
