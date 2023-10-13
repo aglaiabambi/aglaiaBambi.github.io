@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://aglaiabambi.github.io/gallery/index.html</loc>
+    
+    <lastmod>2023-10-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://aglaiabambi.github.io/2023/09/01/BAM0003/</loc>
     
     <lastmod>2023-10-13</lastmod>
@@ -300,15 +309,6 @@
   
   <url>
     <loc>https://aglaiabambi.github.io/gallery/qqzone7/index.html</loc>
-    
-    <lastmod>2023-10-13</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://aglaiabambi.github.io/gallery/index.html</loc>
     
     <lastmod>2023-10-13</lastmod>
     
